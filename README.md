@@ -1,4 +1,4 @@
-# @gridsome/plugin-cloudflare-analytics
+# @securized/plugin-cloudflare-analytics
 
 > Cloudflare Analytics plugin for Gridsome
 
