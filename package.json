@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "name": "@securized/plugin-cloudflare-analytics",
+  "description": "Cloudflare Analytics plugin for Gridsome",
+  "homepage": "https://github.com/securized/plugin-cloudflare-analytics",
+  "repository": "https://github.com/securized/plugin-cloudflare-analytics",
+  "main": "gridsome.client.js",
+  "license": "MIT",
+  "files": [
+    "gridsome.client.js"
+  ],
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "analytics"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=8"
+  }
+}
